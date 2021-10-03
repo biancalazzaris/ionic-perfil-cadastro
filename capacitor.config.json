@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "TPI",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
